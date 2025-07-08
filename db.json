@@ -1,7 +1,16 @@
-{
-    "fullname": "Mastaneh Norozi",
-    "age": 23,
-    "contact": 7733009227,
-    "postcode": "NE4 5QH",
-    "init_amount": 100
-}
+[
+    {
+        "Fullname": "Hamed Mohammad vand",
+        "Age": 23,
+        "Contact": "Hamed Mohammad vand",
+        "Postcode": "NE4 8QH",
+        "Amount": 120
+    },
+    {
+        "Fullname": "Sophia Marlin",
+        "Age": 27,
+        "Contact": "Sophia Marlin",
+        "Postcode": "NE6 1BH",
+        "Amount": 80
+    }
+]
