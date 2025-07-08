@@ -28,7 +28,4 @@ class RegisterAccount:
             json.dump(db, f, ensure_ascii=False, indent=4)
 
     
-hami = RegisterAccount("Hamed Mohammad vand", 23, 7733009227, "NE4 8QH", 120)
-sophia = RegisterAccount("Sophia Marlin", 27, 7733009389, "NE6 1BH", 80)
-hami.save_data()
-sophia.save_data()
+
